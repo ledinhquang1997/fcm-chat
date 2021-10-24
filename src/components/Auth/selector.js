@@ -1,0 +1,1 @@
+export const myInfoSelector = state => state.myInfo.data;
